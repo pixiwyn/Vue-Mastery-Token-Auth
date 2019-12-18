@@ -1,4 +1,4 @@
-# authentication_course
+# Vue Mastery Course - Token Auth
 
 ## Project setup
 
